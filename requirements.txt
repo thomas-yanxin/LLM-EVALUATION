@@ -1,0 +1,2 @@
+modelscope==1.4.3
+gradio==3.23.0
