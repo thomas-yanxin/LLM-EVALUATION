@@ -1,6 +1,6 @@
 # Model Evaluation
 
-基于[ModelScope(魔搭)](https://modelscope.cn/studios/AI-ModelScope/Evaluation-Model/summary)社区, 以开源模型推理或者API接入的方式, 为开发者提供针对LLM的测评体验. 其能够对于某个prompt基于不同的模型生成多个结果, 开发者能基于生成结果比较模型效果.
+基于[ModelScope(魔搭)](https://modelscope.cn/studios/AI-ModelScope/Evaluation-Model/summary)社区和飞桨AIStudio社区, 以开源模型推理或者API接入的方式, 为开发者提供针对LLM的测评体验. 其能够对于某个prompt基于不同的模型生成多个结果, 开发者能基于生成结果比较模型效果.
 
 ## 测评维度
 
