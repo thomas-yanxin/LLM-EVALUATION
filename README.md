@@ -22,6 +22,8 @@
 |:----:| :----: | :----: | :----: | :----: | :----: | :----: | :----: |
 | [ChatYuan-large-v2](https://github.com/clue-ai/ChatYuan) | 0.7B | [元语智能](https://github.com/clue-ai) | 开源 | 否 | √ | √ |  |
 | [ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B) | 6B | [智谱·AI](https://maas.aminer.cn/) | 开源 | 否  | √ | √ |  |
+| [Vicuna-7B](https://github.com/lm-sys/FastChat) | 7B | [lm-sys](https://lmsys.org/) | 开源 | 否  | todo | × |  |
+| [rwkv-4-raven](https://huggingface.co/BlinkDL/rwkv-4-raven) | 14B | [BlinkDL](https://huggingface.co/BlinkDL) | 开源 | 是  | todo | × |  |
 | [MiniMax](https://api.minimax.chat/) | 未知 | [Minimax](https://api.minimax.chat/) | 否 | 否 | × | × |  |
 
 ## 💪号召
