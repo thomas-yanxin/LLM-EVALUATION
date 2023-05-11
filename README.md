@@ -20,7 +20,7 @@
 
 | 模型名称 | 参数 | 研究单位 | 开源/API | 是否商用 | ModelScope | AIStudio | 效果 |
 |:----:| :----: | :----: | :----: | :----: | :----: | :----: | :----: |
-| [ChatYuan-large-v2](https://github.com/clue-ai/ChatYuan) | 0.7B | 元语智能 | 开源 | 否 | √ | √ |  |
+| [ChatYuan-large-v2](https://github.com/clue-ai/ChatYuan) | 0.7B | [元语智能](https://github.com/clue-ai) | 开源 | 否 | √ | √ |  |
 | [ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B) | 6B | [智谱·AI](https://maas.aminer.cn/) | 开源 | 否  | √ | √ |  |
 | [MiniMax](https://api.minimax.chat/) | 未知 | [Minimax](https://api.minimax.chat/) | 否 | 否 | × | × |  |
 
