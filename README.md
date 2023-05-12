@@ -35,3 +35,4 @@
 ## 📖参考资料
 
 1. 聊天机器人竞技场排行榜: https://lmsys.org/blog
+2. SuperCLUE: https://github.com/CLUEbenchmark/SuperCLUE
