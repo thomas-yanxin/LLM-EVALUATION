@@ -6,7 +6,7 @@
 </p> 
 
 <p align="center">  
- <a href="https://github.com/thomas-yanxin/LLM-EVALUATION/blob/master/docs/deploy.md"><strong>评价维度</strong></a>| <a href="https://github.com/thomas-yanxin/LLM-EVALUATION/blob/master/docs/update_history.md"><strong>更新日志</strong></a>  
+ <a href="https://github.com/thomas-yanxin/LLM-EVALUATION/blob/master/docs/Evaluation_dimensions.md"><strong>评价维度</strong></a>| <a href="https://github.com/thomas-yanxin/LLM-EVALUATION/blob/master/docs/update_history.md"><strong>更新日志</strong></a>  
 
 </p>
 
